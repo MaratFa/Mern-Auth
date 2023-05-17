@@ -1,1 +1,1 @@
-# Mern-Auth
+# Mern-auth
